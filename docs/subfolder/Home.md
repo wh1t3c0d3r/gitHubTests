@@ -1,2 +1,3 @@
 this file in a subfolder
-(another)[here!]
+(another)[here!]<br/>
+(test2)[subfolder/another/test]
