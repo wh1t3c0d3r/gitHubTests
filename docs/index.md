@@ -1,3 +1,3 @@
 just a home
-[subfolder/Home.md](test)<br/>
-[subfolder/another](another test)<br/>
+[test](subfolder/Home.md)<br/>
+[another test](subfolder/another)<br/>
